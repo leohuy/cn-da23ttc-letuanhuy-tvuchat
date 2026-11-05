@@ -1,0 +1,391 @@
+﻿================================================================================
+BÁO CÁO KẾT QUẢ TRÍCH XUẤT VĂN BẢN QUY CHẾ TVU TỪ PDF
+================================================================================
+- File nguồn: data/pdfs/quychehocvu.pdf
+- Số trang đã đọc: 5 / 29
+- Tổng số chunks tạo thành: 5
+- Thời gian xuất: 2026-11-01 19:32:45
+================================================================================
+
+################################################################################
+PHẦN 1: NỘI DUNG VĂN BẢN CHI TIẾT THEO TỪNG TRANG
+################################################################################
+
+--------------------------------------------------------------------------------
+TRANG 1 | Phương thức: OCR_TESSERACT | Số ký tự: 2221 | Số từ: 480
+--------------------------------------------------------------------------------
+ỦY BAN NHÂN DAN CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+__ TỈNHTRÀ VINH. Độc lập ~ Tự do ~ Hạnh phúc
+TRƯỜNG ĐẠI HỌC TRÀ VINH
+Số: 9101/QD- ĐHTV Trà Vinh, ngày 19 tháng 10 năm 2023
+QUYÉT ĐỊNH
+Về việc ban hành Quy định công tác học vụ dành cho sinh viên
+Trường Đại học Trà Vinh
+HIỆU TRƯỞNG TRƯỜNG ĐẠI HỌC TRÀ VINH
+Căn cứ Luật Giáo duc đại học ngày 18 tháng 6 năm 2012 và Luật sửa đổi, bổ
+sung một số điều của Luật Giáo duc đại học ngày 19 tháng 11 năm 2018;
+Căn cứ Quyết định số 141/2006/QD-TTg ngày 19 tháng 6 năm 2006 của Thủ
+tướng Chính phủ về việc thành lập Trường Đại học Trà Vinh;
+Căn cứ Thông tư số 16/2015/TT-BGDĐT ngày 12 tháng 8 năm 2015 của Bộ
+trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế đánh giá kết quả rèn luyện của
+người học được đào tạo trình độ đại học hệ chính quy;
+Căn cứ Thông tư số 25/2015/TT-BGDĐT ngày 04 tháng 10 năm 2015 của Bộ
+trưởng Bộ Giáo dục và Đào tạo ban hành Quy định về chương trình môn học Giáo
+duc thể chất thuộc các chương trình đào tạo trình độ đại học;
+Căn cứ Thông tư số 10/2016/TT-BGDĐT ngày 05 tháng 4 năm 2016 của Bộ
+trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế công tác sinh viên đối với
+chương trình đào tạo đại học hệ chính quy;
+Căn cứ Quyết định số 18/2017/QĐ-TTg ngày 31 tháng 5 năm 2017 của Thủ
+tướng Chính phủ quy định liên thông giữa trình độ trung cáp, trình độ cao đẳng
+với trình độ đại học;
+Căn cứ Thông tư số 10/2018/TT-BLĐTBXH ngày 26 tháng 9 năm 2018 của
+Bộ Lao động - Thương binh và Xã hội ban hành chương trình, tổ chức dạy học và
+đánh giá kết quả học tập môn học Giáo dục quốc phòng và an ninh thuộc khối các
+môn học chung trong chương trình đào tạo trình độ trung cấp, trình độ cao dang;
+Căn cứ Thông tư số 05/2020/TT-BGDĐT ngày 18 tháng 3 năm 2020 của Bộ
+Giáo duc va Đào tạo ban hành chương trình giáo duc quốc phòng và an ninh trong
+trường trung cắp sư phạm, cao đẳng sư phạm và cơ sở giáo dục đại học;
+Căn cứ Thông tư số 08/2021/TT-BGDĐT ngày 18 tháng 3 năm 2021 của Bộ
+trưởng Bộ Giáo dục và Đào tạo ban hành Quy chê đào tạo trình độ đại học;
+Căn cứ Nghị quyết số 07/NQ-HĐT ngày 20 tháng 5 năm 2022 của Hội đồng
+trường Trường Đại học Trà Vinh ban hành Quy chế tổ chức và hoạt động của
+Trường và Nghị quyết số 27/NQ-HĐT ngày 14 tháng 10 năm 2022 của Hội đồng
+ZA
+
+--------------------------------------------------------------------------------
+TRANG 2 | Phương thức: OCR_TESSERACT | Số ký tự: 1014 | Số từ: 216
+--------------------------------------------------------------------------------
+trường Trường Đại học Trà Vinh sửa đổi, bổ sung một số điều của Quy chế tổ
+chức và hoạt động của Trường Đại học Trà Vinh ban hành kèm theo Nghị quyết số
+07/NQ-HĐT ngày 20 tháng 5 năm 2022 của Hội đồng trường Trường Đại học Trà
+Vinh;
+Theo dé nghị của Ti ruong phong Dao tao.
+QUYET ĐỊNH:
+Điều 1. Ban hành kèm theo Quyết định này là Quy định công tác học vụ dành
+cho sinh viên Trường Đại học Tra Vinh.
+Điều 2. Quy định này được áp dụng từ học kỳ II năm học 2023 — 2024 và
+thay thế Quyết định số 5070/QD-DHTV ngày 09 tháng 12 năm 2015 của Hiệu
+trưởng Trường Đại học Trà Vinh về việc ban hành quy chế học vụ dành cho sinh
+viên Trường Đại học Trà Vinh.
+Điều 3. Trưởng Phòng Hành chính Tổng hợp, Trưởng Phòng Đào tạo, Trưởng
+Phòng Thanh tra Pháp chế, Trưởng các Phòng, Khoa, Trường, Viện, Trung tâm,
+các đơn vị có liên quan và sinh viên các lớp đại học, cao đẳng chịu trách nhiệm thi
+hành Quyết định ny
+Noi nhận: ah (3
+- Hội đồng trường;
+- Ban Giám hiệu;
+- Như điều 3;
+Công bố Website;
+Lưu: VT, DT, TTrPC.
+Nguyễn Minh Hòa
+
+--------------------------------------------------------------------------------
+TRANG 3 | Phương thức: OCR_TESSERACT | Số ký tự: 2079 | Số từ: 452
+--------------------------------------------------------------------------------
+i
+UY BAN NHAN DAN CONG HOA XA HOI CHU NGHIA VIET NAM
+__ TINH TRA VINH. Độc lập - Tự do — Hanh phúc
+TRƯỜNG ĐẠI HỌC TRÀ VINH
+QUY ĐỊNH CÔNG TÁC HỌC VỤ DÀNH CHO SINH VIÊN
+TRƯỜNG ĐẠI HỌC TRÀ VINH
+(Ban hành kèm theo Quyết định số: 9101/OD-DHTV ngày 19 tháng 10 năm 2023
+của Hiệu trưởng Trường Đại học Trà Vinh)
+CHƯƠNG I
+NHỮNG QUY ĐỊNH CHUNG
+. Điều 1. Phạm vi điều chỉnh và đối tượng áp dung
+1. Quy định này quy định về công tác học vụ dành cho sinh viên kể cả lưu học
+sinh người nước ngoài (gọi chung là SV) đang học tập tại Trường Đại học Trà
+Vinh (Trường ĐHTV) trình độ cao đẳng, đại học. Nội dung quy định bao gồm:
+Chương trình đào tạo, thời gian học tập, tổ chức đào tạo, đánh giá kết quả học tập,
+cấp bằng tốt nghiệp và những quy định khác đối với SV.
+2. Quy định này áp dụng đối với SV các ngành, khóa đào tạo trình độ cao
+đẳng, đại học của Trường DHTV.
+Điều 2. Sinh viên
+1. Đối với SV là những người đã trúng tuyển kỳ thi tuyển sinh hoặc được xét
+tuyển, đã hoàn thành thủ tục đăng ký nhập học và có quyết định nhập học vào
+Trường ĐHTV. Mỗi SV khi vào Trường sẽ được cấp một mã số SV và được làm
+thé SV (có thu phí làm thẻ); địa chỉ thư điện tử (email) để sử dụng trong suốt quá
+trình theo học tại Trường.
+2. SV Trường ĐHTV phải chấp hành nội quy, quy định của trường, khoa,
+viện, trung tâm thuộc và trực thuộc Trường DHTV.
+3. Đối với lưu học sinh (LHS): Khi có nguyện vọng học tập tại Trường
+DHTV, LHS phải đạt yêu cầu về trình độ tiếng Việt theo quy định của Trường đối
+với từng trình độ đào tạo và chuyên ngành đào tạo. LHS phải trải qua 01 năm học
+chương trình dự bị Tiếng Việt của Trường để có kiến thức nền tảng về ngôn ngữ
+tiếng Việt. Ngoài ra, LHS phải hoàn thành chương trình học bổ sung kiến thức
+gồm các môn học theo tổ hợp các môn thi của ngành xét tuyển (mdi môn học có
+thời lượng là 60 giờ. Tổng số giờ theo chương trình bồ sung kiến thức là 180 gid),
+trước khi vào học chính thức các chương trình cao đẳng, đại học. Khi được xét vào
+học chương trình cao đẳng, đại học chính thức, LHS được học bé sung thêm môn
+Tiếng Việt nâng cao (10 tin chỉ, tương đương 210 gid).
+
+--------------------------------------------------------------------------------
+TRANG 4 | Phương thức: OCR_TESSERACT | Số ký tự: 2387 | Số từ: 517
+--------------------------------------------------------------------------------
+Điều 3. Chương trình đào tạo
+1. Chương trình đào tạo (CTĐT) của mỗi ngành học được xây dựng theo đơn
+vị tin chỉ, cu trúc các học phần (/zộc khói kiến thức giáo đục đại cương và giáo
+đục chuyên nghiệp), trong đó có đủ các học phần bắt buộc và đáp ứng chuẩn
+CTĐT. SV phải tích lũy đủ các học phần và khối lượng tín chỉ tối thiểu theo yêu
+cầu của CTĐT để được xét, cấp bằng tốt nghiệp.
+2. Bản mô tả CTĐT được xây dựng căn cứ vào các nội dung: thông tin chung
+về CTĐT; mục tiêu đào tạo của CTĐT; chuẩn đầu ra của CTĐT; tiêu chí tuyển
+sinh; cấu trúc chương trình dạy học; khung CTĐT (la CTDT với các học phan
+được bố trí theo khối kiến thức), kế hoạch giảng dạy (là CTĐT với các học phan
+được bố trí theo HK trong thời gian thiết kế của CTĐT hay còn gọi là kế hoach
+học tập chuẩn toàn khóa), mô tả van tắt nội dung các học phan, đề cương chỉ tiết
+các học phần (phu lục đính kèm), phương pháp giảng dạy và học tập; phương pháp
+đánh giá.
+3. Một số học phần thuộc CTĐT có thể được tổ chức lớp học bằng phương
+thức dạy và học trực tuyến một phần hoặc toàn phần đảm bảo tuân thủ theo các
+quy định hiện hành. Những nội dung dạy và học trực tuyến được ghỉ trong đề
+cương chỉ tiết học phần. Tổng khối lượng (tinh theo tín chỉ) được thực hiện bằng
+phương thức dạy và học trực tuyến không quá 30% khối lượng của chương trình
+đào tạo. Trong trường hợp thiên tai, dịch bệnh phức tạp và các trường hợp bat khả
+kháng khác, Trường tổ chức thực hiện việc dạy và học bằng phương thức trực
+tuyến theo yêu cầu và hướng dẫn của Bộ Giáo dục và Đào tạo.
+4. Chương trình đào tạo, bản mô tả CTĐT và kế hoạch học tập toàn khóa
+được công khai tại trang thông tin điện tử của Trường và Khoa để SV và các bên
+liên quan được biết.
+Điều 4. Khối lượng học tập
+1. Khối lượng học tập của chương trình đào tạo, của mỗi thành phần hoặc của
+mỗi học phần trong chương trình đào tạo được xác định bằng số tín chỉ.
+a) Một tín chỉ được tính tương đương 50 giờ học tập định mức của người học,
+bao gồm cả thời gian dự giờ giảng, giờ học có hướng dẫn, tự học, nghiên cứu, trải
+nghiệm và dự kiểm tra, đánh giá;
+b) Đối với hoạt động dạy học trên lớp, một tín chỉ yêu cầu thực hiện tối thiểu
+15 giờ giảng hoặc 30 giờ thực hành, thí nghiệm, thảo luận trong đó 01 giờ trên lớp
+được tính bằng 50 phút.
+2. Khối lượng học tập tối thiểu của một chương trình đào tạo phải phù hợp
+với yêu cầu của Khung trình độ quốc gia Việt Nam, cụ thể như sau:
+
+--------------------------------------------------------------------------------
+TRANG 5 | Phương thức: OCR_TESSERACT | Số ký tự: 1848 | Số từ: 417
+--------------------------------------------------------------------------------
+a) CTDT đại học: tối thiểu 120 tín chỉ cộng Với khối lượng giáo dục thé chất,
+giáo dục quốc phòng - an ninh.
+b) CTĐT chuyên sâu đặc thù trình độ bậc 7: tối thiểu 150 tín chỉ, cộng với
+khối lượng giáo dục thể chất, giáo dục quốc phòng - an ninh theo quy định hiện
+hành; hoặc 30 tín chỉ đối với người có trình độ đại học thuộc cùng nhóm ngành.
+Điều 5. Kế hoạch học tập
+Căn cứ kế hoạch học tập (KHHT) chuẩn toàn khóa và hướng dẫn của có van
+học tập (CVHT), SV phải xây dựng kế hoạch học tập toàn khóa (KHHTTK) bằng
+cách liệt kê các học phần phải học cho từng HK (HK) của khoá học. KHHTTK phải
+được CVHT phê duyệt. KHHTTK là cơ sở để SV đăng ký học phần trong mỗi HK.
+Trong quá trình học, SV có thé thay đổi việc đăng ký các học phan trong KHHTTK
+nhưng phải đảm bảo điều kiện tiên quyết và có ý kiến xác nhận của CVHT.
+Điều 6. Thời gian học tập
+Kế hoạch học tập chuẩn toàn khóa có thời gian thiết kế cho một CTĐT tùy
+theo ngành học. Thời gian học tập tối đa cho phép dé SV hoàn thành CTĐT được
+xác định theo bảng dưới đây:
+Thời gian thiết kế của CTĐT Thời gian học tập tối đa đẻ SV
+fer aot SD
+3 nam 6 năm
+ 3.5 năm 7 năm
+4 năm 8 năm
+5 năm 10 năm
+6 năm 12 năm
+Những SV được hưởng ưu tiên theo đối tượng quy định tại Quy chế tuyển sinh
+đại học, cao đẳng hệ chính quy không giới hạn về thời gian tối đa để hoàn thành
+CTDT.
+Những SV học liên thông (người đã có bằng tốt nghiệp trình độ từ trung cấp
+trở lên) và những SV có kết quả học tập đã tích lũy từ một trình độ đào tạo khác,
+một ngành đào tạo hoặc một CTĐT khác, một khóa học khác hoặc từ một cơ sở
+đào tạo khác được xem xét công nhận, chuyến đổi sang tín chỉ của những học phần
+trong CTĐT học theo Quy định xét miễn và công nhận giá trị chuyển đổi kết quả
+học tập của người học trong CTĐT trình độ đại học của Trường.
+Điều 7. Học kỳ (HK)
+Một năm học được tổ chức thành 03 HK: 02 HK chính và 01 HK hè.
+
+
+################################################################################
+PHẦN 2: DANH SÁCH CÁC CHUNKS SAU KHI PHÂN ĐOẠN (DÙNG CHO VECTOR DB)
+(Cấu hình: Chunk Size = 600 từ, Overlap = 100 từ)
+################################################################################
+
+================================================================================
+CHUNK #1 | Nguồn: Trang 1 | Độ dài: 444 từ
+================================================================================
+ỦY BAN NHÂN DAN CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+__ TỈNHTRÀ VINH. Độc lập ~ Tự do ~ Hạnh phúc
+TRƯỜNG ĐẠI HỌC TRÀ VINH
+Số: 9101/QD- ĐHTV Trà Vinh, ngày 19 tháng 10 năm 2023
+QUYÉT ĐỊNH
+Về việc ban hành Quy định công tác học vụ dành cho sinh viên
+Trường Đại học Trà Vinh
+HIỆU TRƯỞNG TRƯỜNG ĐẠI HỌC TRÀ VINH
+Căn cứ Luật Giáo duc đại học ngày 18 tháng 6 năm 2012 và Luật sửa đổi, bổ
+sung một số điều của Luật Giáo duc đại học ngày 19 tháng 11 năm 2018;
+Căn cứ Quyết định số 141/2006/QD-TTg ngày 19 tháng 6 năm 2006 của Thủ
+tướng Chính phủ về việc thành lập Trường Đại học Trà Vinh;
+Căn cứ Thông tư số 16/2015/TT-BGDĐT ngày 12 tháng 8 năm 2015 của Bộ
+trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế đánh giá kết quả rèn luyện của
+người học được đào tạo trình độ đại học hệ chính quy;
+Căn cứ Thông tư số 25/2015/TT-BGDĐT ngày 04 tháng 10 năm 2015 của Bộ
+trưởng Bộ Giáo dục và Đào tạo ban hành Quy định về chương trình môn học Giáo
+duc thể chất thuộc các chương trình đào tạo trình độ đại học;
+Căn cứ Thông tư số 10/2016/TT-BGDĐT ngày 05 tháng 4 năm 2016 của Bộ
+trưởng Bộ Giáo dục và Đào tạo ban hành Quy chế công tác sinh viên đối với
+chương trình đào tạo đại học hệ chính quy;
+Căn cứ Quyết định số 18/2017/QĐ-TTg ngày 31 tháng 5 năm 2017 của Thủ
+tướng Chính phủ quy định liên thông giữa trình độ trung cáp, trình độ cao đẳng
+với trình độ đại học;
+Căn cứ Thông tư số 10/2018/TT-BLĐTBXH ngày 26 tháng 9 năm 2018 của
+Bộ Lao động - Thương binh và Xã hội ban hành chương trình, tổ chức dạy học và
+đánh giá kết quả học tập môn học Giáo dục quốc phòng và an ninh thuộc khối các
+môn học chung trong chương trình đào tạo trình độ trung cấp, trình độ cao dang;
+Căn cứ Thông tư số 05/2020/TT-BGDĐT ngày 18 tháng 3 năm 2020 của Bộ
+Giáo duc va Đào tạo ban hành chương trình giáo duc quốc phòng và an ninh trong
+trường trung cắp sư phạm, cao đẳng sư phạm và cơ sở giáo dục đại học;
+Căn cứ Thông tư số 08/2021/TT-BGDĐT ngày 18 tháng 3 năm 2021 của Bộ
+trưởng Bộ Giáo dục và Đào tạo ban hành Quy chê đào tạo trình độ đại học;
+Căn cứ Nghị quyết số 07/NQ-HĐT ngày 20 tháng 5 năm 2022 của Hội đồng
+trường Trường Đại học Trà Vinh ban hành Quy chế tổ chức và hoạt động của
+Trường và Nghị quyết số 27/NQ-HĐT ngày 14 tháng 10 năm 2022 của Hội đồng
+ZA
+
+================================================================================
+CHUNK #2 | Nguồn: Trang 2 | Độ dài: 194 từ
+================================================================================
+trường Trường Đại học Trà Vinh sửa đổi, bổ sung một số điều của Quy chế tổ
+chức và hoạt động của Trường Đại học Trà Vinh ban hành kèm theo Nghị quyết số
+07/NQ-HĐT ngày 20 tháng 5 năm 2022 của Hội đồng trường Trường Đại học Trà
+Vinh;
+Theo dé nghị của Ti ruong phong Dao tao.
+QUYET ĐỊNH:
+Điều 1. Ban hành kèm theo Quyết định này là Quy định công tác học vụ dành
+cho sinh viên Trường Đại học Tra Vinh.
+Điều 2. Quy định này được áp dụng từ học kỳ II năm học 2023 — 2024 và
+thay thế Quyết định số 5070/QD-DHTV ngày 09 tháng 12 năm 2015 của Hiệu
+trưởng Trường Đại học Trà Vinh về việc ban hành quy chế học vụ dành cho sinh
+viên Trường Đại học Trà Vinh.
+Điều 3. Trưởng Phòng Hành chính Tổng hợp, Trưởng Phòng Đào tạo, Trưởng
+Phòng Thanh tra Pháp chế, Trưởng các Phòng, Khoa, Trường, Viện, Trung tâm,
+các đơn vị có liên quan và sinh viên các lớp đại học, cao đẳng chịu trách nhiệm thi
+hành Quyết định ny
+Noi nhận: ah (3
+- Hội đồng trường;
+- Ban Giám hiệu;
+- Như điều 3;
+Công bố Website;
+Lưu: VT, DT, TTrPC.
+Nguyễn Minh Hòa
+
+================================================================================
+CHUNK #3 | Nguồn: Trang 3 | Độ dài: 417 từ
+================================================================================
+i
+UY BAN NHAN DAN CONG HOA XA HOI CHU NGHIA VIET NAM
+__ TINH TRA VINH. Độc lập - Tự do — Hanh phúc
+TRƯỜNG ĐẠI HỌC TRÀ VINH
+QUY ĐỊNH CÔNG TÁC HỌC VỤ DÀNH CHO SINH VIÊN
+TRƯỜNG ĐẠI HỌC TRÀ VINH
+(Ban hành kèm theo Quyết định số: 9101/OD-DHTV ngày 19 tháng 10 năm 2023
+của Hiệu trưởng Trường Đại học Trà Vinh)
+CHƯƠNG I
+NHỮNG QUY ĐỊNH CHUNG
+. Điều 1. Phạm vi điều chỉnh và đối tượng áp dung
+1. Quy định này quy định về công tác học vụ dành cho sinh viên kể cả lưu học
+sinh người nước ngoài (gọi chung là SV) đang học tập tại Trường Đại học Trà
+Vinh (Trường ĐHTV) trình độ cao đẳng, đại học. Nội dung quy định bao gồm:
+Chương trình đào tạo, thời gian học tập, tổ chức đào tạo, đánh giá kết quả học tập,
+cấp bằng tốt nghiệp và những quy định khác đối với SV.
+2. Quy định này áp dụng đối với SV các ngành, khóa đào tạo trình độ cao
+đẳng, đại học của Trường DHTV.
+Điều 2. Sinh viên
+1. Đối với SV là những người đã trúng tuyển kỳ thi tuyển sinh hoặc được xét
+tuyển, đã hoàn thành thủ tục đăng ký nhập học và có quyết định nhập học vào
+Trường ĐHTV. Mỗi SV khi vào Trường sẽ được cấp một mã số SV và được làm
+thé SV (có thu phí làm thẻ); địa chỉ thư điện tử (email) để sử dụng trong suốt quá
+trình theo học tại Trường.
+2. SV Trường ĐHTV phải chấp hành nội quy, quy định của trường, khoa,
+viện, trung tâm thuộc và trực thuộc Trường DHTV.
+3. Đối với lưu học sinh (LHS): Khi có nguyện vọng học tập tại Trường
+DHTV, LHS phải đạt yêu cầu về trình độ tiếng Việt theo quy định của Trường đối
+với từng trình độ đào tạo và chuyên ngành đào tạo. LHS phải trải qua 01 năm học
+chương trình dự bị Tiếng Việt của Trường để có kiến thức nền tảng về ngôn ngữ
+tiếng Việt. Ngoài ra, LHS phải hoàn thành chương trình học bổ sung kiến thức
+gồm các môn học theo tổ hợp các môn thi của ngành xét tuyển (mdi môn học có
+thời lượng là 60 giờ. Tổng số giờ theo chương trình bồ sung kiến thức là 180 gid),
+trước khi vào học chính thức các chương trình cao đẳng, đại học. Khi được xét vào
+học chương trình cao đẳng, đại học chính thức, LHS được học bé sung thêm môn
+Tiếng Việt nâng cao (10 tin chỉ, tương đương 210 gid).
+
+================================================================================
+CHUNK #4 | Nguồn: Trang 4 | Độ dài: 482 từ
+================================================================================
+Điều 3. Chương trình đào tạo
+1. Chương trình đào tạo (CTĐT) của mỗi ngành học được xây dựng theo đơn
+vị tin chỉ, cu trúc các học phần (/zộc khói kiến thức giáo đục đại cương và giáo
+đục chuyên nghiệp), trong đó có đủ các học phần bắt buộc và đáp ứng chuẩn
+CTĐT. SV phải tích lũy đủ các học phần và khối lượng tín chỉ tối thiểu theo yêu
+cầu của CTĐT để được xét, cấp bằng tốt nghiệp.
+2. Bản mô tả CTĐT được xây dựng căn cứ vào các nội dung: thông tin chung
+về CTĐT; mục tiêu đào tạo của CTĐT; chuẩn đầu ra của CTĐT; tiêu chí tuyển
+sinh; cấu trúc chương trình dạy học; khung CTĐT (la CTDT với các học phan
+được bố trí theo khối kiến thức), kế hoạch giảng dạy (là CTĐT với các học phan
+được bố trí theo HK trong thời gian thiết kế của CTĐT hay còn gọi là kế hoach
+học tập chuẩn toàn khóa), mô tả van tắt nội dung các học phan, đề cương chỉ tiết
+các học phần (phu lục đính kèm), phương pháp giảng dạy và học tập; phương pháp
+đánh giá.
+3. Một số học phần thuộc CTĐT có thể được tổ chức lớp học bằng phương
+thức dạy và học trực tuyến một phần hoặc toàn phần đảm bảo tuân thủ theo các
+quy định hiện hành. Những nội dung dạy và học trực tuyến được ghỉ trong đề
+cương chỉ tiết học phần. Tổng khối lượng (tinh theo tín chỉ) được thực hiện bằng
+phương thức dạy và học trực tuyến không quá 30% khối lượng của chương trình
+đào tạo. Trong trường hợp thiên tai, dịch bệnh phức tạp và các trường hợp bat khả
+kháng khác, Trường tổ chức thực hiện việc dạy và học bằng phương thức trực
+tuyến theo yêu cầu và hướng dẫn của Bộ Giáo dục và Đào tạo.
+4. Chương trình đào tạo, bản mô tả CTĐT và kế hoạch học tập toàn khóa
+được công khai tại trang thông tin điện tử của Trường và Khoa để SV và các bên
+liên quan được biết.
+Điều 4. Khối lượng học tập
+1. Khối lượng học tập của chương trình đào tạo, của mỗi thành phần hoặc của
+mỗi học phần trong chương trình đào tạo được xác định bằng số tín chỉ.
+a) Một tín chỉ được tính tương đương 50 giờ học tập định mức của người học,
+bao gồm cả thời gian dự giờ giảng, giờ học có hướng dẫn, tự học, nghiên cứu, trải
+nghiệm và dự kiểm tra, đánh giá;
+b) Đối với hoạt động dạy học trên lớp, một tín chỉ yêu cầu thực hiện tối thiểu
+15 giờ giảng hoặc 30 giờ thực hành, thí nghiệm, thảo luận trong đó 01 giờ trên lớp
+được tính bằng 50 phút.
+2. Khối lượng học tập tối thiểu của một chương trình đào tạo phải phù hợp
+với yêu cầu của Khung trình độ quốc gia Việt Nam, cụ thể như sau:
+
+================================================================================
+CHUNK #5 | Nguồn: Trang 5 | Độ dài: 385 từ
+================================================================================
+a) CTDT đại học: tối thiểu 120 tín chỉ cộng Với khối lượng giáo dục thé chất,
+giáo dục quốc phòng - an ninh.
+b) CTĐT chuyên sâu đặc thù trình độ bậc 7: tối thiểu 150 tín chỉ, cộng với
+khối lượng giáo dục thể chất, giáo dục quốc phòng - an ninh theo quy định hiện
+hành; hoặc 30 tín chỉ đối với người có trình độ đại học thuộc cùng nhóm ngành.
+Điều 5. Kế hoạch học tập
+Căn cứ kế hoạch học tập (KHHT) chuẩn toàn khóa và hướng dẫn của có van
+học tập (CVHT), SV phải xây dựng kế hoạch học tập toàn khóa (KHHTTK) bằng
+cách liệt kê các học phần phải học cho từng HK (HK) của khoá học. KHHTTK phải
+được CVHT phê duyệt. KHHTTK là cơ sở để SV đăng ký học phần trong mỗi HK.
+Trong quá trình học, SV có thé thay đổi việc đăng ký các học phan trong KHHTTK
+nhưng phải đảm bảo điều kiện tiên quyết và có ý kiến xác nhận của CVHT.
+Điều 6. Thời gian học tập
+Kế hoạch học tập chuẩn toàn khóa có thời gian thiết kế cho một CTĐT tùy
+theo ngành học. Thời gian học tập tối đa cho phép dé SV hoàn thành CTĐT được
+xác định theo bảng dưới đây:
+Thời gian thiết kế của CTĐT Thời gian học tập tối đa đẻ SV
+fer aot SD
+3 nam 6 năm
+ 3.5 năm 7 năm
+4 năm 8 năm
+5 năm 10 năm
+6 năm 12 năm
+Những SV được hưởng ưu tiên theo đối tượng quy định tại Quy chế tuyển sinh
+đại học, cao đẳng hệ chính quy không giới hạn về thời gian tối đa để hoàn thành
+CTDT.
+Những SV học liên thông (người đã có bằng tốt nghiệp trình độ từ trung cấp
+trở lên) và những SV có kết quả học tập đã tích lũy từ một trình độ đào tạo khác,
+một ngành đào tạo hoặc một CTĐT khác, một khóa học khác hoặc từ một cơ sở
+đào tạo khác được xem xét công nhận, chuyến đổi sang tín chỉ của những học phần
+trong CTĐT học theo Quy định xét miễn và công nhận giá trị chuyển đổi kết quả
+học tập của người học trong CTĐT trình độ đại học của Trường.
+Điều 7. Học kỳ (HK)
+Một năm học được tổ chức thành 03 HK: 02 HK chính và 01 HK hè.
+
